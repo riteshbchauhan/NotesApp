@@ -1,6 +1,6 @@
 # NotesApp
 
-👋 Hi, I’m @riteshbchauhan 
+# 👋 Hi, I’m @riteshbchauhan
 This is Notes Application in Android using Java with Firebase. 
 NotesApp provide a Login and Registration functionality.
 User can also Add, Read and Delete the Note. 
