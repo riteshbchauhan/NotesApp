@@ -7,3 +7,4 @@
 4. NotesApp Menu are Home, Profile, About Us, Contact Us, Privacy Policy, Logout. 
 5. NotesApp provide a Edit funcationality but code are not working.
 6. I already provided a Application Screenshot in app/APP Photos.
+7. Note: I have created a About us, Contact us and Privacy policy with the help of WordPress.
